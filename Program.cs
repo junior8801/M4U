@@ -12,8 +12,8 @@ namespace M4U
     {
         static void Main(string[] args)
         {
-            string user = "ermivaldo.junior@oi.net.br";
-            string pass = "D2py2uJBUk3B";
+            string user = "";
+            string pass = "";
             string dt1 = DateTime.Now.ToString("dd/MM/yyyy");
             string dt2 = DateTime.Now.ToString("dd/MM/yyyy");
             string rel1 = "https://portaloi.m4u.com.br/ExibeReport.aspx?id=1870";
