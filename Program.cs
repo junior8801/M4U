@@ -18,7 +18,7 @@ namespace M4U
             string dt2 = DateTime.Now.ToString("dd/MM/yyyy");
             string rel1 = "https://portaloi.m4u.com.br/ExibeReport.aspx?id=1870";
             //string rel2 = "https://portaloi.m4u.com.br/ExibeReport.aspx?id=1994";
-            string downloadFilepath = @"\\netprd03\PLANEJAMENTO_PERFORMANCE_MG_BA\OI\Relatorios\Parcial_Controle\Base";
+            string downloadFilepath = @"\\server\dir\OI\Relatorios\Parcial_Controle\Base";
             //string downloadFilepath = @"C:\Users\Administrador\Desktop\JUNIOR\Py\M4U";
             
             matarProcessos();
